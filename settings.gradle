@@ -1,0 +1,2 @@
+rootProject.name = "Samsung_Smart_Watch"
+include ':app'
